@@ -112,7 +112,7 @@
         }
       }
     },
-    "route53_non_compliant_logs_hard_coded": {
+    "invalid_route53_non_compliant_logs_hard_coded": {
       "resource_changes": [
         {
           "address": "aws_route53_resolver_query_log_config.route53_non_compliant_logs_hard_coded",
@@ -167,7 +167,7 @@
         }
       }
     },
-    "route53_non_compliant_logs_referenced": {
+    "invalid_route53_non_compliant_logs_referenced": {
       "resource_changes": [
         {
           "address": "aws_route53_resolver_query_log_config.route53_non_compliant_logs_referenced",

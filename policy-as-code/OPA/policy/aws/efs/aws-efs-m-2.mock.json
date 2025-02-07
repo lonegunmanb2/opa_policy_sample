@@ -272,7 +272,7 @@
         }
       }
     },
-    "default_settings": {
+    "invalid_default_settings": {
       "resource_changes": [
         {
           "address": "aws_efs_mount_target.alpha",

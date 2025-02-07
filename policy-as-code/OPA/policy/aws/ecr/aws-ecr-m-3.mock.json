@@ -42,7 +42,7 @@
 		}
       }]
     },
-	"ecr_repo_defaults": {
+	"invalid_ecr_repo_defaults": {
 		"resource_changes": [{
 			"address": "aws_ecr_repository.ecr_repo_defaults",
 			"mode": "managed",
@@ -80,7 +80,7 @@
 			}
 		}]
 	},
-	"ecr_mutable": {
+	"invalid_ecr_mutable": {
 		"resource_changes": [{
 			"address": "aws_ecr_repository.ecr_repo_mutable",
 			"mode": "managed",
@@ -118,7 +118,7 @@
 			}
 		}]
 	},
-	"ecr_repo_no_scan": {
+	"invalid_ecr_repo_no_scan": {
 		"resource_changes": [{
 			"address": "aws_ecr_repository.ecr_repo_no_scan",
 			"mode": "managed",

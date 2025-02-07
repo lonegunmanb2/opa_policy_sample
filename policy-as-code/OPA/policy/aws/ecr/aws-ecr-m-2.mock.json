@@ -117,7 +117,7 @@
 				}
 			]
 		},
-		"excess_permission_policy": {
+		"invalid_excess_permission_policy": {
 			"resource_changes": [
 				{
 					"address": "aws_ecr_repository_policy.repopolicy",
@@ -144,7 +144,7 @@
 				}
 			]
 		},
-		"excess_aws_permission_policy": {
+		"invalid_excess_aws_permission_policy": {
 			"resource_changes": [
 				{
 					"address": "aws_ecr_repository_policy.repopolicy",
@@ -171,7 +171,7 @@
 				}
 			]
 		},
-		"excess_service_permission_policy": {
+		"invalid_excess_service_permission_policy": {
 			"resource_changes": [
 				{
 					"address": "aws_ecr_repository_policy.repopolicy",

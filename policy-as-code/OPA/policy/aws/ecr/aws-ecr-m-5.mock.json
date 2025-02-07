@@ -505,7 +505,7 @@
         }
       }
     },
-    "missing_lifecycle_policy": {
+    "invalid_missing_lifecycle_policy": {
       "resource_changes": [
         {
           "address": "aws_ecr_lifecycle_policy.foopolicy",
@@ -605,7 +605,7 @@
         }
       }
     },
-    "no_lifecycle_policy_resource": {
+    "invalid_no_lifecycle_policy_resource": {
       "resource_changes": [
         {
           "address": "aws_ecr_repository.foo",
@@ -645,7 +645,7 @@
         }
       ]
     },
-    "multiple_repos_no_lifecycle": {
+    "invalid_multiple_repos_no_lifecycle": {
       "resource_changes": [
         {
           "address": "aws_ecr_lifecycle_policy.foopolicy",
@@ -795,7 +795,7 @@
         }
       }
     },
-    "no_op_ecr_repo_lifecycle_policy": {
+    "invalid_no_op_ecr_repo_lifecycle_policy": {
       "resource_changes": [
         {
           "address": "aws_ecr_lifecycle_policy.foopolicy",
@@ -947,7 +947,7 @@
         }
       }
     },
-    "no_op_ecr_repo_no_lifecycle_policy": {
+    "invalid_no_op_ecr_repo_no_lifecycle_policy": {
       "resource_changes": [
         {
           "address": "aws_ecr_repository.foo",

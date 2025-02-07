@@ -80,7 +80,7 @@
         }
       ]
     },
-    "notcompliant":{
+    "invalid_notcompliant":{
       "resource_changes": [
         {
           "address": "aws_redshift_cluster.notcompliant",

@@ -648,7 +648,7 @@
         }
       ]
     },
-    "no_endpoints": {
+    "invalid_no_endpoints": {
       "resource_changes": [
         {
           "address": "aws_mwaa_environment.valid",
@@ -736,7 +736,7 @@
         }
       ]
     },
-    "not_all_endpoints": {
+    "invalid_not_all_endpoints": {
       "resource_changes": [
         {
           "address": "aws_mwaa_environment.valid",

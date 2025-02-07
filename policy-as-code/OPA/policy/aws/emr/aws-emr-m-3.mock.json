@@ -340,7 +340,7 @@
         }
       ]
     },
-    "empty_log_uri": {
+    "invalid_empty_log_uri": {
       "resource_changes": [
         {
           "address": "aws_emr_cluster.cluster",

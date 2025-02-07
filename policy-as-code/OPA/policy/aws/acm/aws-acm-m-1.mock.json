@@ -1,6 +1,6 @@
 {
   "mock": {
-    "aws_ca_non_compliant_default": {
+    "invalid_aws_ca_non_compliant_default": {
       "resource_changes": [
         {
           "address": "aws_acm_certificate.aws_ca_non_compliant_default",
@@ -59,7 +59,7 @@
         }
       ]
     },
-    "aws_ca_non_compliant_tags_empty": {
+    "invalid_aws_ca_non_compliant_tags_empty": {
       "resource_changes": [
         {
           "address": "aws_acm_certificate.aws_ca_non_compliant_tags_empty",
