@@ -126,7 +126,7 @@
         }
       ]
     },
-    "invalid_aws_ca_non_compliant_enabled":{
+    "valid_aws_ca_compliant_enabled":{
       "resource_changes":[
         {
           "address": "aws_acm_certificate.aws_ca_non_compliant_enabled",
