@@ -454,7 +454,7 @@
         }
       ]
     },
-    "undefined_cache_not_decalred": {
+    "invalid_undefined_cache_not_decalred": {
       "resource_changes": [
         {
           "address": "aws_api_gateway_deployment.sample_deployment",

@@ -795,7 +795,7 @@
         }
       }
     },
-    "invalid_no_op_ecr_repo_lifecycle_policy": {
+    "valid_no_op_ecr_repo_lifecycle_policy": {
       "resource_changes": [
         {
           "address": "aws_ecr_lifecycle_policy.foopolicy",
