@@ -81,7 +81,7 @@
         }
       ]
     },
-    "not_compliant": {
+    "invalid_not_compliant": {
       "resource_changes": [
         {
           "address": "aws_elasticache_cluster.not_compliant",
@@ -157,7 +157,7 @@
         }
       ]
     },
-    "not_compliant_slow": {
+    "invalid_not_compliant_slow": {
       "resource_changes": [
         {
           "address": "aws_elasticache_cluster.not_compliant_slow",
@@ -227,7 +227,7 @@
         }
       ]
     },
-    "not_compliant_engine": {
+    "invalid_not_compliant_engine": {
       "resource_changes": [
         {
           "address": "aws_elasticache_cluster.not_compliant_engine",
@@ -297,7 +297,7 @@
         }
       ]
     },
-    "not_compliant_engine_and_slow": {
+    "invalid_not_compliant_engine_and_slow": {
       "resource_changes": [
         {
           "address": "aws_elasticache_cluster.not_compliant_engine_and_slow",

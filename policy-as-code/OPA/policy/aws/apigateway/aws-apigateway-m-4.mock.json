@@ -596,7 +596,7 @@
         }
       ]
     },
-    "undefined_log_level": {
+    "invalid_undefined_log_level": {
       "resource_changes": [
         {
           "address": "aws_api_gateway_deployment.sample_deployment",
@@ -893,7 +893,7 @@
         }
       ]
     },
-    "undefined_method_settings": {
+    "invalid_undefined_method_settings": {
       "resource_changes": [
         {
           "address": "aws_api_gateway_deployment.sample_deployment",

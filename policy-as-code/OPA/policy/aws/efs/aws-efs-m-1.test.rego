@@ -14,12 +14,12 @@ test_valid_constant {
 }
 
 test_default_settings {
-    result = deny with input as data.mock.default_settings
+    result = deny with input as data.mock.invalid_default_settings
     result == {encrypted_msg, kms_msg}
 }
 
 test_default_kms_key {
-    result = deny with input as data.mock.default_kms
+    result = deny with input as data.mock.invalid_default_kms
     result == {kms_msg}
 }
 

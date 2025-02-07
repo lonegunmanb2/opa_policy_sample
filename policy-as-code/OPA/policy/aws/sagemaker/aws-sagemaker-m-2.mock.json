@@ -98,7 +98,7 @@
         }
       ]
     },
-    "default_settings": {
+    "invalid_default_settings": {
       "resource_changes": [
         {
           "address": "aws_sagemaker_notebook_instance.test",

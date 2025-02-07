@@ -238,7 +238,7 @@
             }
         ]
     },
-    "undefined_protocol":{
+    "invalid_undefined_protocol":{
         "resource_changes": [
             {
             "address": "aws_msk_cluster.cluster",

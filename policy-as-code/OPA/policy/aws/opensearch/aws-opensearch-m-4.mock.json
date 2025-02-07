@@ -208,7 +208,7 @@
         }
       ]
     },
-    "audit_disabled": {
+    "invalid_audit_disabled": {
       "resource_changes": [
         {
           "address": "aws_opensearch_domain.example",
@@ -318,7 +318,7 @@
         }
       ]
     },
-    "error_disabled": {
+    "invalid_error_disabled": {
       "resource_changes": [
         {
           "address": "aws_opensearch_domain.example",
@@ -428,7 +428,7 @@
         }
       ]
     },
-    "audit_disabled_error_disabled": {
+    "invalid_audit_disabled_error_disabled": {
       "resource_changes": [
         {
           "address": "aws_opensearch_domain.example",
@@ -538,7 +538,7 @@
         }
       ]
     },
-    "no_audit_log": {
+    "invalid_no_audit_log": {
       "resource_changes": [
         {
           "address": "aws_opensearch_domain.example",
@@ -648,7 +648,7 @@
         }
       ]
     },
-    "no_error_log": {
+    "invalid_no_error_log": {
       "resource_changes": [
         {
           "address": "aws_opensearch_domain.example",
@@ -758,7 +758,7 @@
         }
       ]
     },
-    "no_logs": {
+    "invalid_no_logs": {
       "resource_changes": [
         {
           "address": "aws_opensearch_domain.example",

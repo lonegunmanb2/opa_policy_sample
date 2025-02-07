@@ -188,7 +188,7 @@
         }
       ]
     },
-    "default_settings": {
+    "invalid_default_settings": {
       "resource_changes": [
         {
           "address": "aws_elasticache_replication_group.test",

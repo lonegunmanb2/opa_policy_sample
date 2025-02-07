@@ -285,7 +285,7 @@
         }
       }
     },
-    "notcompliant_default": {
+    "invalid_notcompliant_default": {
       "resource_changes": [
         {
           "address": "aws_redshift_cluster.notcompliant_default",
@@ -387,7 +387,7 @@
         }
       }
     },
-    "notcompliant_kms": {
+    "invalid_notcompliant_kms": {
       "resource_changes": [
         {
           "address": "aws_redshift_cluster.notcompliant_kms",
@@ -498,7 +498,7 @@
         }
       }
     },
-    "not_compliant_default": {
+    "invalid_not_compliant_default": {
       "resource_changes": [
         {
           "address": "aws_redshift_cluster.not_compliant_default",

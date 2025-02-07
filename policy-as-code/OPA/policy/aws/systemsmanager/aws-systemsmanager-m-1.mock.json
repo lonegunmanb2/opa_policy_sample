@@ -1,6 +1,6 @@
 {
   "mock": {
-    "ssm_not_compliant_default": {
+    "invalid_ssm_not_compliant_default": {
       "resource_changes": [
         {
           "address": "aws_ssm_parameter.ssm_not_compliant_default",
@@ -65,7 +65,7 @@
         }
       }
     },
-    "ssm_not_compliant_hard_coded": {
+    "invalid_ssm_not_compliant_hard_coded": {
       "resource_changes": [
         {
           "address": "aws_ssm_parameter.ssm_not_compliant_hard_coded",
@@ -350,7 +350,7 @@
         }
       }
     },
-    "ssm_not_compliant_string": {
+    "invalid_ssm_not_compliant_string": {
       "resource_changes": [
         {
           "address": "aws_ssm_parameter.ssm_not_compliant_string",
@@ -418,7 +418,7 @@
         }
       }
     },
-    "ssm_not_compliant_stringList": {
+    "invalid_ssm_not_compliant_stringList": {
       "resource_changes": [
         {
           "address": "aws_ssm_parameter.ssm_not_compliant_stringList",

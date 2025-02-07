@@ -502,7 +502,7 @@
         }
       ]
     },
-    "default_bootstrapping": {
+    "invalid_default_bootstrapping": {
       "resource_changes": [
         {
           "address": "aws_emr_cluster.cluster",

@@ -42,7 +42,7 @@
 		}
       }]
     },
-	"ecr_repo_mutable": {
+	"invalid_ecr_repo_mutable": {
 		"resource_changes": [
 			{
 				"address": "aws_ecr_repository.ecr_repo_mutable",
